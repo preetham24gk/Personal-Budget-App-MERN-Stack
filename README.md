@@ -14,7 +14,7 @@ I've created a comprehensive personal budgeting web application using React and 
 
     Budget Goals: Allows setting and tracking budget limits for different categories, with a pie chart for visualization.
 
-    Authentication: Basic login and registration forms are included (frontend only, backend integration needed).
+    Authentication: Basic login and registration forms are included.
 
     Responsive Design: The app uses Tailwind CSS for a responsive layout that works on both desktop and mobile devices.
 
