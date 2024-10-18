@@ -17,7 +17,7 @@ const Header: React.FC = () => {
       <div className="container mx-auto px-4 py-4 flex justify-between items-center">
         <Link to="/" className="flex items-center space-x-2">
           <DollarSign size={24} />
-          <span className="text-xl font-bold">BudgetTracker</span>
+          <span className="text-xl font-bold">Budget Buddy</span>
         </Link>
         <nav>
           <ul className="flex space-x-4 items-center">
